@@ -1,0 +1,6 @@
+name = "bke-line-crm-ai"
+main = "index.js"
+compatibility_date = "2026-10-01"
+
+# Secrets are NOT entered here.
+# Set OPENAI_API_KEY and BKE_ACCESS_TOKEN as encrypted Worker secrets.
